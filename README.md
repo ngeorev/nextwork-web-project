@@ -14,13 +14,15 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 <br>
 
-## Introduction
-The purpose of this project is solely for practicing and learning, while having fun and gaining deeper understanding of the DevOps mindset. 
+## Introduction 
 
 It is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
 
+- The purpose of this project is solely for practicing and learning CI/CD while also getting hands on experience, while having fun and gaining deeper understanding of the DevOps mindset. 
+
+- This fits into my carrer goals because I want to become DevOps engineer.
 
 <br>
 
