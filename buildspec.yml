@@ -10,7 +10,7 @@ phases:
       - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain nextwork --domain-owner 281523502911 --region eu-central-1 --query authorizationToken --output text`
 
     build:
-    commands:
+     commands:
       - echo "====== BEGINNING TEST PHASE ======"
       - echo "Running tests on `date`"
       - chmod +x run-tests.sh
@@ -30,4 +30,4 @@ artifacts:
   files:
     - target/nextwork-web-project.war
 
-  discard-paths: no
+discard-paths: no
