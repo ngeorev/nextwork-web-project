@@ -53,6 +53,13 @@
         .feature h3 {
             color: #ffcc00;
         }
+        .feature img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+            margin-top: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
         footer {
             background-color: rgba(0, 0, 0, 0.7);
             text-align: center;
@@ -86,25 +93,29 @@
     <section id="rage-fighter">
         <div class="feature">
             <h3>🔥 New Character: Rage Fighter</h3>
-            <p>Introducing the Rage Fighter, a formidable melee class specializing in close-range combat. With unique combo skills and crowd control abilities, the Rage Fighter excels in both PvE and PvP scenarios. Master this class to unleash devastating attacks on your foes.</p>
+            <p>The Rage Fighter is a close-combat warrior with explosive power. Perfect your combos and control the battlefield.</p>
+            <img src="https://mu-cosmo.com/images/pages/s6/ragefighter.jpg" alt="Rage Fighter Image">
         </div>
     </section>
     <section id="kalima7">
         <div class="feature">
             <h3>🗺️ New Map: Kalima 7</h3>
-            <p>Explore Kalima 7, one of the most challenging zones in Season 6. Face off against high-level monsters and the formidable boss, Kundun, to earn valuable set items and rewards. Team up with allies to conquer this treacherous map.</p>
+            <p>Face terrifying bosses and collect ancient treasures in the dark and dangerous Kalima 7.</p>
+            <img src="https://mu-cosmo.com/images/pages/s6/kalima7.jpg" alt="Kalima 7 Map">
         </div>
     </section>
     <section id="events">
         <div class="feature">
             <h3>🏰 Enhanced Events</h3>
-            <p>Engage in revamped events like Castle Siege and Crywolf Fortress. Castle Siege now offers better rewards and balanced competition, while Crywolf Fortress presents more challenging enemies and enhanced loot. Participate to earn rare jewels, exclusive items, and showcase your skills.</p>
+            <p>Castle Siege and Crywolf Fortress now offer greater rewards and tougher enemies.</p>
+            <img src="https://mu-cosmo.com/images/pages/s6/castle.jpg" alt="Castle Siege Event">
         </div>
     </section>
     <section id="upgrades">
         <div class="feature">
             <h3>⚙️ Improved Upgrade Systems</h3>
-            <p>Season 6 introduces the Jewel of Harmony system, allowing players to enhance items with unique options such as increased attack speed and defense. Additionally, upgrade success rates have been improved, making it easier to enhance your gear and customize your build.</p>
+            <p>Utilize the Jewel of Harmony to unlock new item potentials and enhance your power.</p>
+            <img src="https://mu-cosmo.com/images/pages/s6/upgrades.jpg" alt="Upgrade System">
         </div>
     </section>
     <footer>
